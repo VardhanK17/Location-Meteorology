@@ -27,7 +27,7 @@ Get your API_KEY from here [https://opencagedata.com/api](https://opencagedata.c
 Clone the project
 
 ```bash
-  git clone https://github.com/Mohith234/meteorology-app.git
+  git clone https://github.com/VardhanK17/Location-Meteorology.git
 ```
 
 Go to the project directory
